@@ -7,6 +7,7 @@ It runs on a **javascript nandgame like computer emulator** that runs **16 bit o
 
 ## How to run?
 copy paste the content of [code.asm](./code.asm) into [the emulator](https://github.com/virtualArch)
+
 :warning: This should take ~2min up to 4min to write the text onto the screen :warning:
 
 Based on my projet [virtual arch](https://github.com/virtualArch)
