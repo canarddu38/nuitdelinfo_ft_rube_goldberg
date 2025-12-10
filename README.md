@@ -6,8 +6,8 @@ It runs on a **javascript nandgame like computer emulator** that runs **16 bit o
 `js(asm(brainfuck("Hello, World!")))`
 
 ## How to run?
-copy paste the content of [code.asm](./code.asm) into [the emulator](https://github.com/virtualArch)
+copy paste the content of [code.asm](./code.asm) into [the emulator](https://4re5.com/virtualArch)
 
 :warning: This should take ~2min up to 4min to write the text onto the screen :warning:
 
-Based on my projet [virtual arch](https://github.com/virtualArch)
+Based on my projet [virtual arch](https://github.com/4re5group/virtualArch)
